@@ -1,0 +1,89 @@
+[ {
+  "id" : 1,
+  "destination" : "Spain",
+  "aircraftID" : 0,
+  "departureAirportID" : 1,
+  "destinationAirportID" : 4,
+  "departureDate" : "02/08/2020",
+  "arrivalDate" : "02/08/2020",
+  "flightPrice" : 436.0,
+  "direct" : true,
+  "seatsLeft" : 50
+}, {
+  "id" : 2,
+  "destination" : "New york",
+  "aircraftID" : 1,
+  "departureAirportID" : 1,
+  "destinationAirportID" : 0,
+  "departureDate" : "12/08/2020",
+  "arrivalDate" : "13/08/2020",
+  "flightPrice" : 479.0,
+  "direct" : true,
+  "seatsLeft" : 50
+}, {
+  "id" : 3,
+  "destination" : "Israel",
+  "aircraftID" : 1,
+  "departureAirportID" : 0,
+  "destinationAirportID" : 1,
+  "departureDate" : "10/08/2020",
+  "arrivalDate" : "11/08/2020",
+  "flightPrice" : 453.0,
+  "direct" : true,
+  "seatsLeft" : 50
+}, {
+  "id" : 4,
+  "destination" : "Israel",
+  "aircraftID" : 1,
+  "departureAirportID" : 0,
+  "destinationAirportID" : 1,
+  "departureDate" : "10/08/2020",
+  "arrivalDate" : "11/08/2020",
+  "flightPrice" : 348.0,
+  "direct" : false,
+  "seatsLeft" : 54
+}, {
+  "id" : 5,
+  "destination" : "Sweden",
+  "aircraftID" : 1,
+  "departureAirportID" : 0,
+  "destinationAirportID" : 5,
+  "departureDate" : "13/08/2020",
+  "arrivalDate" : "13/08/2020",
+  "flightPrice" : 233.0,
+  "direct" : false,
+  "seatsLeft" : 100
+}, {
+  "id" : 6,
+  "destination" : "Sweden",
+  "aircraftID" : 1,
+  "departureAirportID" : 0,
+  "destinationAirportID" : 5,
+  "departureDate" : "15/08/2020",
+  "arrivalDate" : "14/08/2020",
+  "flightPrice" : 877.0,
+  "direct" : true,
+  "seatsLeft" : 53
+}, {
+  "id" : 7,
+  "destination" : "Austria",
+  "aircraftID" : 1,
+  "departureAirportID" : 0,
+  "destinationAirportID" : 10,
+  "departureDate" : "15/09/2020",
+  "arrivalDate" : "15/09/2020",
+  "flightPrice" : 28282.0,
+  "direct" : true,
+  "seatsLeft" : 2626
+}, {
+  "id" : 0,
+  "destination" : "New york",
+  "aircraftID" : 0,
+  "departureAirportID" : 1,
+  "destinationAirportID" : 0,
+  "departureDate" : "31/07/2020",
+  "arrivalDate" : "01/08/2020",
+  "flightPrice" : 512.0,
+  "direct" : false,
+  "seatsLeft" : 38
+} ]

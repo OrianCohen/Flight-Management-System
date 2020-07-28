@@ -1,0 +1,26 @@
+[ {
+  "id" : 0,
+  "country" : "New York",
+  "airportName" : "JFK",
+  "terminals" : [ "1", "2", "3", "4", "5", "6", "7", "8" ]
+}, {
+  "id" : 1,
+  "country" : "Israel",
+  "airportName" : "Ben-Gurion",
+  "terminals" : [ "T1", "T3" ]
+}, {
+  "id" : 4,
+  "country" : "Spain",
+  "airportName" : "Barcelona-El Prat",
+  "terminals" : [ "A", "B", "C", "D" ]
+}, {
+  "id" : 2,
+  "country" : "Germany",
+  "airportName" : "Schonefelb",
+  "terminals" : [ "A", "B", "C" ]
+}, {
+  "id" : 3,
+  "country" : "Sweden",
+  "airportName" : "Arlanda",
+  "terminals" : [ "T1", "T2", "T5" ]
+} ]

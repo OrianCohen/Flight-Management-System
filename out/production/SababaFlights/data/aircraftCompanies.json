@@ -1,0 +1,36 @@
+[ {
+  "id" : 6,
+  "companyName" : "Lufthansa",
+  "companyClass" : "Regular",
+  "aircrafts" : [ ]
+}, {
+  "id" : 2,
+  "companyName" : "El-Al",
+  "companyClass" : "Regular",
+  "aircrafts" : [ ]
+}, {
+  "id" : 5,
+  "companyName" : "Norwegian Air",
+  "companyClass" : "Low cost",
+  "aircrafts" : [ ]
+}, {
+  "id" : 0,
+  "companyName" : "Israir",
+  "companyClass" : "Regular",
+  "aircrafts" : [ ]
+}, {
+  "id" : 3,
+  "companyName" : "WizzAir",
+  "companyClass" : "Low cost",
+  "aircrafts" : [ ]
+}, {
+  "id" : 1,
+  "companyName" : "WowAir",
+  "companyClass" : "Low cost",
+  "aircrafts" : [ ]
+}, {
+  "id" : 4,
+  "companyName" : "Aegan Airlines",
+  "companyClass" : "Low cost",
+  "aircrafts" : [ ]
+} ]

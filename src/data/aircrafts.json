@@ -1,0 +1,11 @@
+[ {
+  "id" : 0,
+  "aircraftCompanyID" : 0,
+  "seatsCount" : 78,
+  "model" : "Boeing-797"
+}, {
+  "id" : 1,
+  "aircraftCompanyID" : 1,
+  "seatsCount" : 78,
+  "model" : "Boeing-797"
+} ]
