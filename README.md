@@ -18,5 +18,3 @@ For more details visit my WIKI page : https://github.com/OrianCohen/SababaFlight
 ![image](https://user-images.githubusercontent.com/46422517/109882769-0fa58d80-7c83-11eb-9796-baad0cc6468a.png)
 
 ![image](https://user-images.githubusercontent.com/46422517/109882800-19c78c00-7c83-11eb-87fc-96b97ac4ea64.png)
-
-![image](https://user-images.githubusercontent.com/46422517/109882900-3f549580-7c83-11eb-9db5-13e303a74def.png)
