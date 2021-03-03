@@ -1,4 +1,4 @@
-# Flight management system
+# Flight Management System
 
 This project can help to flight agency to manage better flights and orders from customers.
 Each agent can search for flight, book a flight, modify or delete flights.
